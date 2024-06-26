@@ -1,2 +1,2 @@
-# c0derM0nk
+# C0derM0nk
 Coding Competition
